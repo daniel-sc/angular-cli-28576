@@ -1,0 +1,15 @@
+{
+  "name": "@gongall/example-library",
+  "version": "0.0.4",
+  "license": "UNLICENSED",
+  "peerDependencies": {
+    "rxjs": "7",
+    "zone.js": "0"
+  },
+  "main": "index.js",
+  "author": "gongall",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
+}

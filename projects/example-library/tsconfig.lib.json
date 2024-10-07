@@ -1,0 +1,11 @@
+{
+	"extends": "../../tsconfig.json",
+	"angularCompilerOptions": {
+		"compilationMode": "partial"
+	},
+	"compilerOptions": {
+		"types": [
+			"@angular/localize"
+		]
+	}
+}
