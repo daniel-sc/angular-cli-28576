@@ -13,4 +13,4 @@ steps used to initialize server
 - yarn start
 
 
-If you comment out the usage of "thirdPartyTranslationRemote" everything works properly.
+If you comment out the usage of "nodeModulesThirdPartyTranslation" everything works properly.
